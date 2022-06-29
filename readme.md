@@ -1,3 +1,7 @@
+# moved
+
+moved to https://github.com/milahu/gnumake-tokenpool
+
 # gnumake-jobclient-py
 
 python client for the GNU make jobserver
